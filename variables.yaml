@@ -1,3 +1,10 @@
 MONGODB_HOST: mongodb.daws77s.online
 REDIS_HOST: redis.daws77s.online
+MYSQL_HOST: mysql.daws77s.online
+RABBITMQ_HOST: rabbitmq.daws77s.online
 CATALOGUE_HOST: catalogue.daws77s.online
+USER_HOST: user.daws77s.online
+CART_HOST: cart.daws77s.online
+SHIPPING_HOST: shipping.daws77s.online
+PAYMENT_HOST: payment.daws77s.online
+DISPATCH_HOST: dispatch.daws77s.online
