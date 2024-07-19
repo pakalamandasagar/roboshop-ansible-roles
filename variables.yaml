@@ -1,1 +1,2 @@
-MONGODB_HOST: mongod.daws77s.online
+MONGODB_HOST: mongodb.daws77s.online
+REDIS_HOST: redis.daws77s.online
